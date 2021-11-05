@@ -1,8 +1,8 @@
 ## HOLA BIENVENID@S 😁
 ### About(ES) 👨‍💻
 
-Mi nombre es Jonathan Alejandro Villegas, nacido y criado en la Ciudad de San Luis Capital, Argentina. Actulmente me ecuentro en busqueda laboral de mi primer trabajo en IT. Mi experiencias anteriores fueron por fuera de este campo. 
-
+Mi nombre es Jonathan Alejandro Villegas, nacido y criado en la Ciudad de San Luis Capital, Argentina.
+Actualmente me encuentro en búsqueda laboral de mi primer trabajo en IT. Mi experiencias anteriores fueron por fuera de este campo.
 Siempre me de definí como un amante de la tecnología, me encanta estar actualizado y en lo posible poder aprender. Tengo muchas ganas de progresar y seguir aumentando mis conocimientos en tecnología, por lo cual aprovecho y no dejo escapar cualquier curso o taller que pueda realizar. Tengo facilidad para el trabajo en equipo, ayudo en lo que se pueda y reconozco el esfuerzo que realizan mis compañeros.
 
 ### About(EN)👨‍💻
